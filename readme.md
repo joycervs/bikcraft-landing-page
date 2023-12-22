@@ -4,8 +4,7 @@
 
 # Bikcraft Landing Page
 
-##### PT :🇧🇷:
-
+##### PT 
 Este é um projeto de landing page para um site fictício de vendas de bicicletas chamado Bikcraft. O projeto foi desenvolvido como parte do curso da Origamid.
 
 ## Tecnologias Utilizadas
@@ -46,7 +45,7 @@ Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novos 
 
 # Bikcraft Landing Page
 
-##### EN :us: :uk:
+##### EN 
 
 This is a landing page project for a fictional bicycle sales website called Bikcraft. The project was developed as part of the Origamid course.
 
