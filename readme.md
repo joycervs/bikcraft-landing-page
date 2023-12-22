@@ -43,9 +43,9 @@ Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novos 
 
 
 
-# Bikcraft Landing Page
+# Bikcraft Landing Page   ##### EN
 
-##### EN 
+ 
 
 This is a landing page project for a fictional bicycle sales website called Bikcraft. The project was developed as part of the Origamid course.
 
